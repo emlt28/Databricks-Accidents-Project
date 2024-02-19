@@ -2,8 +2,8 @@
 Présentation projet :
 Dans le cadre de notre 3ième et dernière année en BUT Scidence des Données (SD) nous travaillons sur Microsoft Azure. 
 Dans ce repository, je vous présenterai mes résultats de l'examen ainsi que les consignes et les données de celui-ci.
-Données de l'examens --> Data
-Consignes de l'examen --> exam
+Données de l'examens --> veh.csv & vict.csv & lieux.csv & carac.csv
+Consignes de l'examen --> EXAM
 Rendus de l'examen --> Modélisation & 
 
 Source des données : 
